@@ -11,13 +11,13 @@ git clone https://github.com/Xenz-11/commarsh
 cd commarsh
 python2 marshal.py
 ```
-<h><b><i>Inpo<i><b><h>
+<h><b><i>I N P O<i><b><h>
 
-<a href="https://api.whatsapp.com/send/?phone=6283138613993&text&app_absent=0" />
+[Whatsapp](https://wa.me/6283138613993)
 
-![facebook](https://www.facebook.com/inu.pembangkang.7)
+[facebook](https://www.facebook.com/inu.pembangkang.7)
 
-![github](https://github.com/Xenz-11)
+[github](https://github.com/Xenz-11)
 
 # Screentod
 
