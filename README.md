@@ -19,6 +19,8 @@ python2 marshal.py
 
 [Github](https://github.com/Xenz-11)
 
+# Screentod
+
 ![CAPTURE 1](https://github.com/Xenz-11/commarsh/blob/main/Screentod/Screenshot_20220426-034144.jpg)
 
-[CAPTURE2](
+![CAPTURE2](https://github.com/Xenz-11/commarsh/blob/main/Screentod/Screenshot_20220426-034212.jpg)
