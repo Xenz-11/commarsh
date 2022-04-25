@@ -13,7 +13,7 @@ python2 marshal.py
 ```
 <h><b><i>Inpo<i><b><h>
 
-<a href="https://wa.me/6283138613993" </a>
+<a href="https://api.whatsapp.com/send/?phone=6283138613993&text&app_absent=0" /></a>
 
 ![facebook](https://www.facebook.com/inu.pembangkang.7)
 
