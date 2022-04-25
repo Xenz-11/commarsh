@@ -11,7 +11,7 @@ git clone https://github.com/Xenz-11/commarsh
 cd commarsh
 python2 marshal.py
 ```
-<i>Inpo<i>
+<h><b><i>Inpo<i><b><h>
 
 [Whatsapp](https://wa.me/6283138613993)
 
