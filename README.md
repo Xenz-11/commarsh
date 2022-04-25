@@ -18,3 +18,7 @@ python2 marshal.py
 [Facebook](https://www.facebook.com/inu.pembangkang.7)
 
 [Github](https://github.com/Xenz-11)
+
+[CAPTURE1](https://github.com/Xenz-11/commarsh/blob/main/Screentod/Screenshot_20220426-034144.jpg)
+
+[CAPTURE2](
