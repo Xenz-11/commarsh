@@ -13,11 +13,11 @@ python2 marshal.py
 ```
 <h><b><i>I N P O<i><b><h>
 
-# [Whatsapp](https://wa.me/6283138613993)
+<b> •[Whatsapp](https://wa.me/6283138613993)
 
-# [facebook](https://www.facebook.com/inu.pembangkang.7)
+<b> •[facebook](https://www.facebook.com/inu.pembangkang.7)
 
-# [github](https://github.com/Xenz-11)
+<b> •[github](https://github.com/Xenz-11)
 
 # Screentod
 
